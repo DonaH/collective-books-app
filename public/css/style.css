@@ -1,0 +1,36 @@
+* {
+  font-family: 'Kaushan Script', 'sans-serif';
+  font-style: cursive;
+}
+
+li{
+  line-height:2.5em;
+  list-style-type:none;
+  margin-top:15px;
+}
+
+a{
+  color:green;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+  font-size: 1.25em;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+body{
+  background-image: url(../images/texture_wall.jpg);
+  background-color: 35%;
+}
+.btn-primary:hover{
+  font-size: 1.25em;
+}
